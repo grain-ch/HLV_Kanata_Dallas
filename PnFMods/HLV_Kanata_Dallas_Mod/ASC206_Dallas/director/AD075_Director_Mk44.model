@@ -1,0 +1,7 @@
+<AD075_Director_Mk44.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/HLV_Kanata_Dallas_Mod/ASC206_Dallas/director/lods/AD075_Director_Mk44_lod1	</parent>
+	<extent>	2.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Kanata_Dallas_Mod/ASC206_Dallas/director/AD075_Director_Mk44	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AD075_Director_Mk44.model>

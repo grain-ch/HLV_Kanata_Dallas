@@ -1,0 +1,7 @@
+<AGA054_Browning_M2_Mod1.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/HLV_Kanata_Dallas_Mod/ASC206_Dallas/gun/lods/AGA054_Browning_M2_Mod1_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<nodefullVisual>	PnFMods/HLV_Kanata_Dallas_Mod/ASC206_Dallas/gun/AGA054_Browning_M2_Mod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGA054_Browning_M2_Mod1.model>
